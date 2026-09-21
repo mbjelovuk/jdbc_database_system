@@ -2,6 +2,7 @@
 
 # Movie Recommendation & Rating System
 
+**University:** University of Belgrade, School of Electrical Engineering
 **Course:** Softverski alati baza podataka  (Software Tools for Databases) 
 **Year:** 2025/2026  
 
